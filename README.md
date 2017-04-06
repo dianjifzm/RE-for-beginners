@@ -4,14 +4,9 @@
 
 　　作者表示，这本书是免费的，可以以源代码的形式（LaTeX）免费获得，并将永远如此，没有出版的计划。作者会继续更新，同时也接受捐赠，捐赠者的名字将会出现在书内，而且捐助者将获得一个重新排列作者写作计划项目的权利。
 
-英文 PDF："Reverse Engineering for Beginners" free boo
-捐赠页面：Donate
-GitHub页面：dennis714/RE-for-beginners - GitHub
-
-作者：长短短
-链接：https://zhuanlan.zhihu.com/p/19810488
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+英文 PDF：["Reverse Engineering for Beginners" free boo](http://yurichev.com/RE-book.html)
+捐赠页面：[Donate](http://yurichev.com/donate.html)
+GitHub页面：[dennis714/RE-for-beginners - GitHub](http://github.com/dennis714/RE-for-beginners)
 
 "Reverse Engineering for Beginners" free book
 ---------------------------------------------
